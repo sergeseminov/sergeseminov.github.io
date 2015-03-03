@@ -1,0 +1,32 @@
+procedure TMainForm.CheckSinusFunctionClick(Sender: TObject);
+var n                              : LongInt;
+    C1, C2                         : Single;
+    A, Fd, Fcar, Fdev, Smax, Phase : Single;
+begin
+     Try
+        A    := 32767;        // желаема€ амплитуда результирующего „ћ-сигнала
+        Fd   := wfSAMPLERATE; // частота дискретизации (сама€ высока€ из всех)
+        Fcar := 40000;        // частота несущей (играет роль RF)
+        Fdev := 1000;         // частота девиации
+        Smax := 5000;         // пиковое значение модулирующего сигнала (в данном случае значени€ не имеет)
+
+        NormalizeAmplitude(Smax, False); // приводим максимальное значение модулирующего сигнала DATA32[n] к Smax
+
+        Integral:= VirtualAlloc(nil, wf32DataBytes, MEM_RESERVE or MEM_COMMIT, PAGE_READWRITE); // ¬ыдел€ем пам€ть под массив Integral
+
+        C1 := 2* pi * Fcar / Fd;
+        C2 := ( 2 * pi * Fdev ) / ( Fd * Smax );
+
+        Integral[0]:= 0;
+        for n:= 0 to wf32DataSize - 2 do
+        begin
+             Integral[n+1] :=  Integral[n] + DATA32[n];
+             Phase:= (C1 * n) + (C2 * Integral[n]);
+             DATA32[n]:= A * sin(Phase);
+        end;
+
+     Finally
+            if Integral <> nil then VirtualFree(Integral, 0, MEM_RELEASE); // ќсвобождаем пам€ть Integral
+            CalcBitmap(True);                                              // –исуем спектр
+     end;
+end;

@@ -1,0 +1,234 @@
+<STX>
+
+
+
+Welcome to program 28 of VOA Radiogram from the Voice of America.
+
+Here is the lineup for today's program (produced with Fldigi
+3.21.76AG):
+
+3:33  MFSK16: Program preview (now)
+5:38  MFSK 16/32/64/128 images: Large diamond
+3:45  MFSK32: BBC World Service archive
+4:04  MFSK64: Deutsche Welle, Radio/TV Marti, with image
+1:32  MFSK128: Willis Conover Facebook page, with image
+ :44  MFSK32: Email address
+2:02  MFSK64: ISON comet, with image
+2:29  MFSK64/Flmsg: Ultra-compact galaxy
+ :37  MFSK32: Closing announcements
+    
+Please send reception reports to radiogram@voanews.com
+
+And visit voaradiogram.net
+
+Twitter: @VOARadiogram
+
+Next on VOA Radiogram will be the transmission of the same photo
+in MFSK16, 32, 64, and 128.
+
+During each mode change will be 4 seconds of silence before and 6
+seconds of silence after the RSID.
+
+Each photo transmission is 1:20 to 1:30 in duration.
+
+Photo caption: A 59.6-carat pink diamond that will be auctioned
+by Sotheby's in Geneva at an asking price of $60 million...
+
+<EOT>
+ 
+<STX>
+Sending Pic:140x169C;
+1 ôîòî
+Sending Pic:140x169C;
+2 ôîòî
+Sending Pic:140x169C;
+3 ôîòî
+
+News about international broadcasti
+This is VOA Radiogram in MFSK32.
+
+
+News about international broadcasting from kimandrewelliott.com.
+A shortened URL for each post is below the headline.
+
+
+Listeners are helping BBC validate World Service archive
+metadata.
+
+j.mp/1apoo24
+
+BBC Internet Blog, 24 Sept 2013, Tristan Ferne: "The BBC World
+Service Archive prototype allows you to search, browse and listen
+to over 36,000 radio programmes from the BBC World Service
+archive spanning the past 45 years. For a limited time you can
+explore this archive and help us improve it by validating and
+adding topic tags that describe the programmes. ... So far, users
+of the prototype have listened to around 12,000 of the 36,000
+programmes that are available and tagged or edited about 7,000 of
+these. This has generated over 70,000 individual metadata 'edits'
+(votes, new tags etc). We've even had some dedicated listeners
+send us recordings of programmes that were missing from the
+archive. We are currently analysing the data so far to see how
+good the tags are by comparing professional archivists, listeners
+and our algorithms."
+
+
+The overlooked history of the international TV distribution
+business.
+
+j.mp/14IjsEA
+
+Connect 2 Media & Entertainment, 25 Sept 2013, Dom Serafini:
+"[O]ne can find plenty of historical references about TV
+technology, production, advertising and broadcasting. But for
+academia, it's as if 50 years of international TV distribution
+business never existed. And yet, international program sales made
+commercial television viable and fostered its growth outside the
+United States. If it weren't for American international
+distribution, Canada couldn't have supported its first commercial
+TV stations that later formed the CTV network. If countries such
+as Mexico, Venezuela and Brazil hadn't started to export
+Telenovelas in the 1950s and 1960s (first selling scripts, then
+kinescoped versions and later, in 1965 versions on two-inch
+videotapes), Latin America's TV industry couldn't have developed
+as it did. If not for TV content sold internationally, Italy
+couldn't have introduced commercial television in Europe. And
+yet, very few records remain of those milestones."
+
+
+VOA Radiogram now changes to MFSK64.
+
+Next will be 4 seconds of silence, followed by the RSID for
+MFSK64, followed by an additional 6 seconds of silence. If the
+RSID does not change your mode to MFSK64, please do so
+manually...
+
+<EOT>
+
+This is VOA Radiogram in MFSK64.
+
+
+News about international broadcasting from kimandrewelliott.com
+Ftvqh  78he Welle's departing director on the roles on shortwave,
+internet, television.
+
+j.mp/1aoyekN 
+
+The Times of Inlbho?icCt 2013, Deutsche Welle director general
+Erik Bettermann as interviewed by Debasis Konar: "The importance
+of shortwave has decreased dramatically almost everywhere,
+largely due to increasing dominance of the internet. That's why
+Deutsche Welle (DW) has reduced its shortwave radio programmes
+significantly and invested more resources into its online
+presence and television activities. ... Despite the increasing
+importance of the Internet, radio is still a vi aT tePrce of
+information in many regions, where Internet access is limited. In
+sub-Saharan Africa and parts of Asia, DW not only distributes its
+radio content via shortwave, but also via partner stations. We
+provide our users with audio files and podcasts in a variety of
+languages. Many young people are accessing DW's audio offerings
+ti tnj6og°elt
+tn;d [Erik Bettermann's term as director
+general of DW ends 30 September.]
+
+
+Director of Radio/TV Marti describes his station's media mix.
+
+j.mpatntDr0O7E
+
+Radio Prague, 19 Sept 2013, Carlos Garcia-Perez, director of
+Radio/TV Marti, as interviewed by Patrick McCumiskey: "We are 5multi m pee?peration. ... Why
+is that? Well, there are two
+primary reasons. Firstly, it's the most efficient way of carrying
+on our operation today, and, as you know, the internet is a big
+player. You (Radio Prague) play a big role on the internet now,
+so internet and social media has changed the spectrum of how
+information is disseminatin?tt dpC A  fh uqEtz sKecondly, it is the attempt to jam us by the
+Cuban government.
+And we go from the most primitive way of distributing
+information, which is through flash drives and DVDs on the
+island, where we put our radio and TV content to satellite. In
+between those, we have an AM station, we have our own 1180 [kHz]
+signal, but we buy time foild ogoveetions in Miami- that's
+in a test period- but we do that because we know it reaches the
+island, and we are getting great feedback from the island on
+these. We are doing short wav ¦ rgte are also testing FM. We
+know the access to internet is a bigrx Uo( ghn taknow access to the internet on the island
+is very
+limitee { rIRtmer shortwave broadcaster Radio Prague is now
+Internet-only.]
+
+Photo follows: Radio/TV Marti director Carlos Garcia-Perez at
+Radio Prague. Photo by Milos Turek...
+
+<EOT>
+ F ptt<CAN>;<DLE> hOn
+<STX>
+Sending Pic:200x152C;
+
+4 ôîòî
+
+Next will be 4 seconds of silence, followed by the RSID for
+MFSK128, followed by an additional 6 seconds of silence. If the
+RSID does not change your mode to MFSK128, plemt:
+
+This is VOA Radiwain MFSf?28.
+
+
+VHs Willis Conover has a (memorial) <SYN>1ebook page.
+
+n<a s PiFgpef VOA's treasures, an internationally-known jazz
+aficionado, well-connected within the jazz community but
+little-known in the United States." "Although fene C?&ndte baritone was the voice
+of jazz — that quintessentially American music — for millions
+around the world. From 1955 until 19?ePw hiiM'so3?ue,Nqa aazz
+Hour brought sounds that Louis Armstrong once ca?e <ESC>e Yt °tUB TjCoo,@r tBeCwoice of
+AmeriIekvi z!etetnezn
+
+This is VOA Rltett|  v ˆu {K32.
+
+Plea Eee?i? vion reports to radiogo?	jtllews.com
+
+And visit voaradiogram.net
+
+Twitter: @VOARadiogram
+
+VOA Radiogram now changes to MFSK64.
+
+ISON's Approach Captured by Amateur Astronomers
+
+VOA News
+sttchD mxxmet ISON was spotteieacopOCewot e eTtronomers as
+the highly-anticipated arrival of the icy space visitor nears.
+
+"I photographed Comet ISON on September 15 using my az9ebt in]fbcnh8kAIK o n ane? ntuF
+[na_n2d stronomer Efrain Morales Rivera sawoRq n?Om  depte&er 14 "rising above the (?ihe
+rain
+forest just minutes before sunp?e. I used a 12p/r0q8dmake its closest approach to the sun
+on Nrl aiiitMat?la  GPw
+it reacts to ioe a)e lO[aid that in mid-September the
+approaching comet was glowing like a star of 14th magnitude.
+That's deajRtlainly we would love it c  a couple of magnitudes briguterp¤FN?berel Battams
+of the Naval Research
+Lga in ge aqton, D.C., "but it's doing just fine. I'd say it's
+still on course <ETX>zP-fbject."
+
+NASA cautions that comets are capab™qizzling at the last
+minute even annwRt RtO <FS>nnfn7dr ts brush with solar fire, it could be
+visible  ;J eye, NASAle(id exthe latest images, internationally knrur lm§IAo?t?rs likely to
+survive thettmvHvenaaHtiy 8xhe Sun? Wrrighten
+edia, liEoIarly hype led the tni tcbrt( , Comet ISON shouart 
+a t  l?hoSliag tSimhe hours preced<SO>dkl  t1 Aw)roach to the sun."
+
+oJ tapR qce axorsill emerge from the sun's glare
+wtio tS ttervers in the northern hemisphere. The
+comet's tail will likely be visible to the nakeee»t‚uz umorning and evening sky throughout
+December 2013.
+
+The last coeewlOnbwomet Lovejoy,
+which gave viewers in ttnweJh  eetNb ltoKew oI hymAeet's tail stretching halfway across the
+sky.p¦h cap://www.voanews.com/content/isons-approsiJocumented-by-amate
+ur-astronomers <ACK>osn ISON  e?aul of the Canary Isl r luob<ENQ>
+
+
+

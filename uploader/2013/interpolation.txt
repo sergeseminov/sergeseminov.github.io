@@ -1,0 +1,32 @@
+procedure Interpolation(OldLength, NewLength, E: LongInt);
+var i, j, k                  : Integer;
+    dT, F, T, sr             : Single;
+    FactorSize               : Single;
+    function SinC(X: Single) : Single; {http://ru.wikipedia.org/wiki/Sinc}
+    begin
+         if X = 0 then X:= 1;
+         Sinc:= Sin(X) / X;
+    end;
+begin
+     if (OldLength = 0) then Exit;
+     FactorSize:= NewLength / OldLength;
+     dT:= 1 / FactorSize;
+     For j:=0 to NewLength-1 do
+     begin
+          sr:=0;
+          F:=0;
+          For k:= -E to E do
+          begin
+               I:= round(j * dt + K);
+               T:=( j * dt - I);
+               sr:= sr+ SinC( Pi * T ) * DATA32[ ((I mod OldLength) + OldLength) mod OldLength ];
+               F:= F + ( SinC( Pi * T ) );
+          end;
+          if F <> 0 then InterpolationBuf[j]:= sr / F else InterpolationBuf[j]:= 0;
+     end;
+end;
+
+// DATA32 - массив исходных данных.
+// InterpolationBuf - массив, куда будут записаны данные после интерпол€ции.
+// E - диапазон интерпол€ции.
+ 

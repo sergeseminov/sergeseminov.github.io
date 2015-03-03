@@ -1,0 +1,15 @@
+procedure FM_Modulation(Amplitude: Single);
+var i             : Integer;
+    N, X, Y, Z, A : Double;
+begin
+     Z:= 0;
+     for i:= 0 to DATA32Size - 1 do
+     begin
+          A:= 0.5 + DATA32[i] * 0.0000001;
+          if A < 0 then A := A + 2.0;
+          if Z + A <= 1 then Z := Z + A else Z := Z + A - 2;
+          X  := abs(Z) * 2 - 1;
+          Y  := sqr(X);
+          DATA32[i] := Amplitude * X * 2 * ( 0.7725425 - Y * ( 0.295085 - 0.0225425 * Y ) );
+     end;
+end;

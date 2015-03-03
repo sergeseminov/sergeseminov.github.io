@@ -1,0 +1,42 @@
+procedure TMainForm.CheckFMRealClick(Sender: TObject);
+var n                  : LongInt;
+    C, P1, P2, two_Pi  : Double;
+    A, Fdev, Smax      : Double;
+begin
+     Try
+        Decimation_Up(False, False, False); //2X, Без фильтрации, без коррекции АЧХ, без нормализации амплитуды
+
+        A    := 32000;   // желаемая амплитуда результирующего ЧМ-сигнала
+        Fdev := 1000;    // частота девиации
+        Smax := 32000;   // пиковое значение модулирующего сигнала
+
+        NormalizeAmplitude(Smax, False); // приводим максимальное значение модулирующего сигнала DATA32[n] к Smax
+
+        two_Pi := 2 * Pi;
+        C      := ( two_Pi * Fdev ) / ( wfSAMPLERATE * Smax );
+        P1     := 0;
+        P2     := 0;
+
+        for n:= 0 to Data32Size - 1 do
+        begin
+             if n and 1 = 0 then
+             begin
+                  P1 := P1 + Pi + C * DATA32[n];
+                  if P1 > two_Pi then P1 := P1 - two_Pi;
+                  if P1 < two_Pi then P1 := P1 + two_Pi;
+                  DATA32[n]:= A * sin(P1);
+             end else
+             begin
+                  P2 := P2 + Pi + C * DATA32[n];
+                  if P2 > two_Pi then P2 := P2 - two_Pi;
+                  if P2 < two_Pi then P2 := P2 + two_Pi;
+                  DATA32[n]:= A * -cos(P2);
+             end;
+        end;
+        
+     Finally
+            CalcBitmap(True); // Рисуем спектр (полное обновление)
+     end;
+end;
+
+// DATA32[n] массив с реальными данными (модулирующий сигнал) 32 бита.

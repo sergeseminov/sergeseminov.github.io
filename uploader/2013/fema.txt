@@ -1,0 +1,196 @@
+spiekeroog
+
+Kamis, 05 April 2012
+Milcom Blog Logs - Apri 3-4 Btown (FEMA+)
+I had one of my HF receivers attached to a laptop/PC-ALE program for the last two days and captured the following FEMA activity. My condensed logs are posted below.
+
+STARTED Apr-03-2012
+
+3341.0 FC4FEM004
+4603.0 FC6FEM
+5837.0 HIJ
+7348.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM FCSFEM FR4FEM
+7428.0 FC1FEM002 FCS6FEM002 FCSFEM002
+7870.0 HIJ
+8050.0 STB
+9462.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM** FCSFEM1 FR1FEM FR3FEM FR7FEM WI5FEM**
+10194.0 FC1FEM* FC4FEM*** FC6FEM FC8FEM FC8FEM006 FC9FEM FCSFEM2 FM4FEM FR1FEM FR3FEM MA1FEM* NH1FEM* NY2FEM* SJ2FEM* DE3FEM* MS4FEM***
+10493.0 FC1FEM FR3FEM
+10588.0 FC1FEM* FC4FEM*** FC6FEM FC8FEM** FC8FEM006 FC0FEM FCSFEM1 FCSFEM2 FM4FEM FR1FEM FR3FEM FR7FEM FR8FEM 952FEM NH1FEM* SB2FEM* AL4FEM*** IA7FEM** WI5FEM**
+10899.0 FC1FEM002 FC8FEM002 FCSFEM002
+12129.0 FC1FEM002 FC6FEM002 FC8FEM002 FC0FEM002 S2L
+12216.0 FC1FEM* FC6FEM FC6FEM002 FC8FEM** FC8FEM006 FC0FEM FCSFEM2 FCSFEM2 FM1FEM4B FM8 FM8FEM FM0FEM FR2FEM FR3FEM FR7FEM CT1FEM* NY2FEM* MD3FEM* PA3FEM* WV3FEM* MI5FEM**
+13446.0 FC1FEM* FC6FEM FC8FEM FC8FEM006 FC0FEM FM8FEM FR1FEM NH1FEM* NJ2FEM* PA3FEM*
+13894.0 FC1FEM002 FC6FEM002 FC8FEM002 FCSFEM002
+14450.0 0053SDCAP 2200MNCAP FC8FEM006
+14776.0 FC1FEM FC4FEM004 FC6FEM FC8FEM FC8FEM006 FC0FEM FM8FEM
+14836.0 FC6FEM002 FC8FEM002 FCSFEM002
+14885.0 FC8FEM006 HQ703N N020JN
+15708.0 FC1FEM* FC8FEM FC8FEM006 FCSFEM3 FM8FEM WV3FEM*
+17519.0 FM8FEM
+19969.0 FC1FEM* FC8FEM** FR3FEM NJ2FEM* WI5FEM**
+21866.0 FC1FEM* ST2FEM*
+24526.0 FC1FEM FC8FEM
+
+STARTED Apr-04-2012
+
+2377.0 FC4FEM FC4FEM004
+3341.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FR3FEM
+4603.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM FC8FEM006 FR1FEM FR7FEM
+4610.0 HIJ
+4780.0 FC6FEM002
+5402.0 FC8FEM006 FR7FEM
+5837.0 HIJ
+6809.0 FM8FEM
+7348.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM FC8FEM006 FM8FEM FR1FEM FR3FEM FR7FEM
+7428.0 FC1FEM002 FC6FEM002 FC8FEM002 FCSFEM002
+7870.0 HIJ
+8050.0 STB 828013
+9462.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM** FC8FEM006 FM8 FM8FEM FR1FEM FR3FEM FR7FEM ND8FEM**
+10194.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM FC8FEM006 FC0FEM FM8 FR1FEM FR3FEM FR7FEM
+10588.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM** FC8FEM006 FC0FEM FM8FEM FR3FEM FR7FEM SD8FEM MT8FEM**
+10899.0 FC1FEM002 FC6FEM002 FC8FEM002 FCSFEM002
+12129.0 FC1FEM002 FC6FEM002 FC8FEM002 FCSFEM002
+12216.0 FC1FEM FC4FEM FC6FEM FC8FEM** FC8FEM006 FC0FEM FR1FEM FR3FEM CO8FEM**
+13446.0 FC1FEM FC4FEM FC4FEM004 FC6FEM FC8FEM006 FC0FEM FM1FEM FM8FEM FR1FEM SD8FEM
+13894.0 FC1FEM002 FC6FEM002 FC8FEM002
+14450.0 0053SDCAP 2220MNCAP FC8FEM006
+14776.0 FC1FEM FC8FEM FC0FEM FM8FEM FR1FEM
+14836.0 FC6FEM002 FC8FEM002
+14485.0 FC8FEM006
+14885.0 FC8FEM006 FR7FEM
+15708.0 FC1FEM FC6FEM FC8FEM FC8FEM006 FC0FEM FM8FEM
+17519.0 FM8 FM8FEM
+19969.0 FC1FEM FC4FEM004 FC0FEM
+20631.0 JNRNPR MCCNPR DL0001DAT
+21866.0 FC0FEM FR1FEM FR7FEM
+24526.0 FC4FEM
+
+* indicates FC1FEM wkg State EOC
+** indicates FC8FEM wkg State EOC
+*** indicates FC4FEM wkg State EOC
+Diposkan oleh BULLDOGZ77 di 06:17
+Kirimkan Ini lewat EmailBlogThis!Berbagi ke TwitterBerbagi ke Facebook
+Label: Milcom Blog Logs
+Tidak ada komentar:
+
+Poskan Komentar
+
+Posting Lebih Baru Posting Lama Beranda
+Langganan: Poskan Komentar (Atom)
+coun
+StatCounter - Free Web Tracker and Counter
+Mengenai Saya
+Foto Saya
+
+BULLDOGZ77
+
+Lihat profil lengkapku
+	
+Arsip Blog
+
+    ¡  2012 (621)
+        >  Juli (85)
+        >  Juni (84)
+        >  Mei (97)
+        ¡  April (90)
+            Good Weekend
+            Montana Air Guard unit’s asset makes disaster comm...
+            Ten Months Old
+            F-16s, MiGs engage over Bulgarian skies
+            USS Elrod Recovers 4,840 Pounds of Drugs in Caribb...
+            Cooking or Baking
+            Region Dispatch Center Coverage to Expand to 13 In...
+            Iwo Jima ARG, 24th MEU Complete Strait of Gibralta...
+            MSC Takes Delivery of T-AKE class Ship USNS Medgar...
+            Mayport-based Frigate Departs on Final Deployment ...
+            VPU-1 ‘Old Buzzards’ to disestablish
+            Crew Playdate
+            Baby Shower and Colton Update
+            Mode-S/ADS-B Intercepts 22 Apr 2012 - Bowling Gree...
+            Mode-S/ADS-B Intercepts 20-21 Apr 2012 - Bowling G...
+            Kentucky Air Guard to support, participate in Thun...
+            Wyoming Guard supports Utah during major earthquak...
+            Mode-S/ADS-B Intercepts 20 Apr 2012 - Btown
+            Iwo Jima ARG, 24th MEU Complete African Lion
+            Fab Friday
+            Mode-S/ADS-B Intercepts 19 Apr 2012 - Btown
+            DOD Identifies Unit for Upcoming Afghanistan Rotat...
+            Maryland Army Guard unveils newest helicopter in i...
+            Wyoming Air Guard unit conducts annual MAFFS train...
+            Mode-S/ADS-B Intercepts 18 Apr 2012 - Btown
+            National Guard at southwest border shifting from ‘...
+            DESRON 26, US Ships Begin Joint Warrior 12-1
+            Future USS Mississippi Successfully Passes Sea Tri...
+            Wednesday
+            Mode-S/ADS-B Intercepts 17 Apr 2012 - Btown
+            This and That
+            Space Shuttle Discovery Arrives in DC
+            Navy Installations Prepare for Hurricane Season
+            Future USS Somerset Launched
+            NASA Aircraft/Shuttle Discovery Northbound
+            Navy Names Zumwalt Class Destroyer USS Lyndon B. J...
+            Quiet Weekend
+            Mode-S/ADS-B Intercepts 15 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 13-14 Apr 2012 - Bowling G...
+            Navy Names Five New Submarines
+            South Dakota Guard Civil Support Team trains with ...
+            Mode-S/ADS-B Intercepts 13 Apr 2012 - Btown
+            Two Little Monkeys
+            Mode-S/ADS-B Intercepts 12 Apr 2012 - Btown
+            Brothers
+            USS Porter Enters Gulf of Aden, Joins CTF 151
+            Mode-S/ADS-B Intercepts 11 Apr 2012 - Btown
+            USS Helena Returns from Deployment
+            Independence Departs for Homeport of San Diego
+            Mode-S/ADS-B Intercepts 9-10 Apr 2012 - Bowling Gr...
+            Kansas National Guard unit trains to respond to mu...
+            Frogs and Bumblebees
+            U.S. Navy deploys carriers near Gulf before Iran n...
+            Mode-S/ADS-B Intercepts 9 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 9 Apr 2012 - Deltona FL
+            Nine Month Check Up
+            Mode-S/ADS-B Intercepts 7-8 Apr 2012 - Btown
+            Easter 2012
+            Seawolf Completes Sea Trials after Maintenance Per...
+            Iwo Jima ARG Enters 6th Fleet, a First for USS New...
+            San Diego Arrives in Namesake City
+            Pre Easter Festivities
+            U.S. 7th Fleet to Conduct Exercise
+            Mode-S/ADS-B Intercepts 6 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 6 Apr 2012 - Deltona FL
+            Mode-S/ADS-B Intercepts 6 Apr 2012 - Bowling Green...
+            Navy's Newest Squadron Prepares for New F-35 Fight...
+            Navy Begins Construction on DDG 1002
+            Mode-S/ADS-B Intercepts 5 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 3-5 Apr 2012 - Bowling Gre...
+            Mode-S/ADS-B Intercepts 5 Apr 2012 - Deltona FL
+            Mops Easter Egg Hunt
+            Milcom Blog Logs - Apri 3-4 Btown (FEMA+)
+            Mode-S/ADS-B Intercepts 4 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 4 Apr 2012 - Deltona FL
+            Cookies
+            Enterprise Carrier Strike Group Arrives in U.S. 5t...
+            Mode-S/ADS-B Intercepts 3 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 3 Apr 2012 - Deltona FL
+            Do you like my hat?
+            Washington DC Area Potomac Tracon Frequencies
+            Milcom Blog Logs - March 2012 Deltona Fla
+            Mode-S/ADS-B Intercepts 2 Apr 2012 - Deltona FL
+            Mode-S/ADS-B Intercepts 2 Feb 2012 - Btown
+            Busy Monday
+            Mode-S/ADS-B Intercepts 1 Apr 2012 - Deltona FL
+            Mode-S/ADS-B Intercepts 1 Apr 2012 - Btown
+            Mode-S/ADS-B Intercepts 1 Apr 2012 - Bowling Green...
+            Mode-S/ADS-B Intercepts 31 Mar 2012 - Btown
+            Mode-S/ADS-B Intercepts 31 Mar 2012 - Bowling Gree...
+        >  Maret (141)
+        >  Februari (107)
+        >  Januari (17)
+
+    >  2011 (230)
+
+    >  2010 (149)
+
+	
+Template Awesome Inc.. Diberdayakan oleh Blogger.

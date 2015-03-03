@@ -1,0 +1,114 @@
+http://iaru-r1.org/index.php?option=com_content&view=article&id=1132:globalset-rules-april-2013&catid=57:globalset&Itemid=165
+
+
+GlobalSET Rules - April 2013			
+Friday, 08 March 2013 00:43
+Global Simulated Emergency Test – Saturday April 13th and Saturday April 20th 2013
+
+IARU Region 1 invites the HQ-Stations of all IARU member societies and stations of Emergency Communications Groups to participate in a Global Simulated Emergency Test on
+
+Session 1 - Saturday April 13th, 2013 11.00 – 15.00 Local Time and
+
+Session 2 - Saturday April 20th, 2013 Times as shown below.
+
+The operation will take place on and near the emergency Centre-of-Activity (CoA) frequencies on 80, 40, 20, 17 and 15 metres (+-QRM ).
+
+This event is different as messages will be passed in both directions.
+
+Session 1 – Messages to be sent to Regional HQ stations.
+
+Session 2 – Messages will be sent from Regional HQ stations back to those taking part.
+
+The timing of the event is different to allow stations the best chance of sending and receiving their messages and should still reduce any inter-region interference that may occur.
+
+The objectives of the test are;
+
+1. increase the common interest in emergency communications.
+2. test how usable the CoA frequencies are across ITU regions.
+3. create practices for international emergency communication and
+4. practice the relaying of messages using all modes.
+
+So, please remember that this is not a contest, it is an emergency communications exercise to develop the skills we will need to provide an international emergency network.
+
+Messages may be passed on voice (SSB), Data or CW modes as detailed below.
+
+Voice mode
+
+Each IARU Region will have a HQ station operating on voice as follows:
+
+Region 1 – TBA (Session 1 – 1100-1500 Local Time – Session 2 – 1000-1400UTC )
+
+Region 2 – TBA (Session 1 – 1100-1500 Local Time – Session 2 – 1400-1800UTC )
+
+Region 3 – TBA (Session 1 – 1100-1500 Local Time – Session 2 – 0200-0600UTC )
+
+
+HQ stations will be QRV at the times shown above in their QTH on all CoA frequencies appropriate to their region +- QRM as shown below.
+Region 1         Region 2                    Region 3
+3760                3750 or 3895             3600
+7110                7060, 7240 or 7290    7110
+14300              14300                       14300
+18160              18160                       18160
+21360              21360                       21360
+
+
+Stations intending to participate are requested to register through their IARU Regional/National Emergency Communications Co-Ordinators as follows;
+
+Region 1 - http://bit.ly/htGHy
+
+Region 2 - http://www.iaru-r2.org/emergencies/
+
+Region 3 - http://www.iaru-r3.org/dcom/r3dcom-com.htm
+
+
+If your country does not have a National Co-Ordinator then please contact the regional co-ordinator via the details on the websites.
+
+A list of participating stations is available at http://bit.ly/W90DGw .  Participating stations should call 'CQ GLOBALSET' giving their callsign and organisation ( ARES,RAYNET, NETMAR etc. ).
+
+Message Format
+
+Each participating station will send messages to their Regional HQ station formatted using the IARU HF International Emergency Operating Procedure which can be seen at http://bit.ly/2rrbwW That page also has the message forms to be used for the exercise.
+
+Stations should relay messages received towards the Regional HQ station.
+
+To comply with licence regulations, all messages should be addressed to Greg Mossop, G0DUB and should come from a licensed radio amateur.
+
+Messages should be less than 25 words and must not include anything which would be considered as a 'real emergency' message by a listener.
+
+For example;
+
+*  Weather report at the station location
+*  Number of operators available
+*  Interesting fact about the station
+
+would all be acceptable messages.
+
+There is no limit on the number of messages to be sent but each one must have a unique message number.
+To avoid QRMing the HQ stations, please move to frequencies near the CoA in steps of 5KHz for contacts with others.
+
+To create a more realistic situation, please limit your transmitting power during the exercise to 100 Watts. We are especially interested in stations operating mobile/portable and/or on emergency power.
+
+Data modes
+
+Data stations must send the same format as used for voice messages. Each region will decide if their HQ stations will use data modes and what frequency they may be found on.
+
+'Structured' modes such as Winlink, ALE, PSKmail should send their messages directly to g0dub@winlink.org , other data modes should attempt to relay the messages through two other stations before sending them to globalset-data@raynet-hf.net for analysis.
+
+CW Mode
+
+CW is included in this SET to increase the possibility of stations making contacts in difficult conditions and should be used when SSB or data contacts are proving impossible. Each region will decide if their HQ stations will use CW, CW stations should operate near the CoA frequencies when SSB traffic cannot be heard.
+
+CW stations must send the same format as used for voice messages and not exceed 15wpm. If necessary CW messages can be relayed through two other stations before sending them to globalset-cw@raynet-hf.net for analysis.
+
+Conclusion
+
+A log sheet for messages passed is provided at http://bit.ly/8ZyOTG so that analysis of the exercise will be easier. Stations are asked to submit logs of the messages relayed, not the messages themselves.
+
+However please send your logs with comments, pictures and suggestions for future exercises to; globalset08@raynet-hf.net as soon as possible after the SET so that information can be gathered for a report of the event as soon as the backlog has been cleared.
+
+Thanks for your support of emergency communications.
+
+
+Greg Mossop, G0DUB
+
+IARU Region 1 Emergency Communications Co-Ordinator

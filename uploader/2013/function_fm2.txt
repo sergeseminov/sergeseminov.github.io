@@ -1,0 +1,36 @@
+procedure TMainForm.CheckSinusFunctionClick(Sender: TObject);
+var n                              : LongInt;
+    C1, C2                         : Single;
+    A, Fd, Fcar, Fdev, Smax, Phase : Single;
+begin
+     Try
+
+        //*****************************************************************************************************
+        Decimation_Up(False, False, False); //2X, Без фильтрации, без коррекции АЧХ, без нормализации амплитуды
+        //*****************************************************************************************************
+
+        A    := 32767;             // желаемая амплитуда результирующего ЧМ-сигнала
+        Fd   := wfSAMPLERATE;      // частота дискретизации (самая высокая из всех)
+        Fcar := wfSAMPLERATE / 4;  // частота несущей (играет роль RF). В данном случае, половина частоты дискрета
+        Fdev := 1000;              // частота девиации
+        Smax := 5000;              // пиковое значение модулирующего сигнала
+
+        NormalizeAmplitude(Smax, False); // приводим максимальное значение модулирующего сигнала DATA32[n] к Smax
+
+        C1 := 2* pi * Fcar / Fd;
+        C2 := ( 2 * pi * Fdev ) / ( Fd * Smax );
+
+        Phase := -C1;
+        for n:= 0 to wf32DataSize - 1 do
+        begin
+             Phase := Phase + C1 + C2 * DATA32[n];            //берём значения фазы по модулю 2пи
+             if Phase > 2 * pi then Phase := Phase - 2 * pi;  //берём значения фазы по модулю 2пи
+             if Phase < 2 * pi then Phase := Phase + 2 * pi;  //тем самым исключается неограниченный рост фазы.
+             DATA32[n] := A * sin(Phase);
+        end;
+
+
+     Finally
+            CalcBitmap(True);                                 // Рисуем спектр
+     end;
+end;
